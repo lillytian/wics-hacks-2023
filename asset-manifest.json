@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wics-hacks-2023/static/css/main.073c9b0a.css",
+    "main.js": "/wics-hacks-2023/static/js/main.498eb9dc.js",
+    "static/js/787.261aeaef.chunk.js": "/wics-hacks-2023/static/js/787.261aeaef.chunk.js",
+    "static/media/logo.svg": "/wics-hacks-2023/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wics-hacks-2023/index.html",
+    "main.073c9b0a.css.map": "/wics-hacks-2023/static/css/main.073c9b0a.css.map",
+    "main.498eb9dc.js.map": "/wics-hacks-2023/static/js/main.498eb9dc.js.map",
+    "787.261aeaef.chunk.js.map": "/wics-hacks-2023/static/js/787.261aeaef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.498eb9dc.js"
+  ]
+}
