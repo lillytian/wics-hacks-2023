@@ -1,4 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import NavBar from "./components/NavBar";
 
 // import pages
 import HomePage from './pages/HomePage';
@@ -17,6 +18,7 @@ function App() {
         <Route path="/profile" element={<ProfilePage/>} />
         <Route path="/settings" element={<SettingsPage/>} />
       </Routes>
+      <NavBar />
     </Router>
   );
 }
