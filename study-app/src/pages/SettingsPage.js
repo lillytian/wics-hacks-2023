@@ -2,7 +2,9 @@ import React, { Component } from 'react';
 
 class SettingsPage extends Component {
     render() {
-        <div></div>
+        return (
+            <div>settings</div>
+        );
     };
 }
 
