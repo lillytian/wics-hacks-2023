@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wics-hacks-2023/static/css/main.00fbfdfb.css",
-    "main.js": "/wics-hacks-2023/static/js/main.e43b1894.js",
+    "main.css": "/wics-hacks-2023/static/css/main.f36e31a1.css",
+    "main.js": "/wics-hacks-2023/static/js/main.d10a5718.js",
     "static/js/787.261aeaef.chunk.js": "/wics-hacks-2023/static/js/787.261aeaef.chunk.js",
     "static/media/logo.png": "/wics-hacks-2023/static/media/logo.f6b6a0deaa0d85681762.png",
     "static/media/crossword.png": "/wics-hacks-2023/static/media/crossword.62b8ea00de34ef722c41.png",
@@ -12,12 +12,12 @@
     "static/media/pac-man.png": "/wics-hacks-2023/static/media/pac-man.3ab7a4d6b178bf67ee5e.png",
     "static/media/matching-game.png": "/wics-hacks-2023/static/media/matching-game.fc25bd9e688ff0159d19.png",
     "index.html": "/wics-hacks-2023/index.html",
-    "main.00fbfdfb.css.map": "/wics-hacks-2023/static/css/main.00fbfdfb.css.map",
-    "main.e43b1894.js.map": "/wics-hacks-2023/static/js/main.e43b1894.js.map",
+    "main.f36e31a1.css.map": "/wics-hacks-2023/static/css/main.f36e31a1.css.map",
+    "main.d10a5718.js.map": "/wics-hacks-2023/static/js/main.d10a5718.js.map",
     "787.261aeaef.chunk.js.map": "/wics-hacks-2023/static/js/787.261aeaef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00fbfdfb.css",
-    "static/js/main.e43b1894.js"
+    "static/css/main.f36e31a1.css",
+    "static/js/main.d10a5718.js"
   ]
 }
