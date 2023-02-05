@@ -14,7 +14,7 @@ class Game extends Component {
         return (
             <div className='game-container'>
                 <img src={this.getGame(this.props.game)} className={'game-option'} />
-                <div className="game-amount">{this.props.amount}<img src={Coin} id={'home-coin'} /></div>
+                <div className="game-amount" onClick={this.props.onClick}>{this.props.amount}<img src={Coin} id={'home-coin'} /></div>
             </div>
         );
     }

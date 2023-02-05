@@ -1,4 +1,4 @@
-import { Box, Modal, Typography } from '@mui/material';
+import { Box, Modal } from '@mui/material';
 import React, { Component } from 'react';
 import { Button, Col, Container, Row } from 'react-bootstrap';
 import { CountdownCircleTimer } from 'react-countdown-circle-timer';
@@ -57,9 +57,7 @@ class LockdownTimer extends Component {
                         <Row>
                             <Col>
                                 <div className='lockdown-button-container'>
-                                    {/* <Link to='/setup'> */}
-                                        <Button className='countdown-stop-button' onClick={this.openModal}>Stop</Button>
-                                    {/* </Link> */}
+                                    <Button className='countdown-stop-button' onClick={this.openModal}>Stop</Button>
                                 </div>
                             </Col>
                         </Row>

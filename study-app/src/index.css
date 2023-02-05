@@ -75,6 +75,32 @@ code {
   font-size: 40px;
 }
 
+.game-modal-title {
+  margin-bottom: 16px;
+}
+
+.game-modal-img {
+  width: 100%;
+}
+
+.game-modal-button {
+  width: 80%;
+  padding: 18px;
+  border-radius: 500px;
+  background-color: #F6F6EB;
+  border: 1px rgba(0, 0, 0, 0.1) solid;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+#game-coin {
+  width: 24px;
+  margin-left: 6px;
+  vertical-align: middle;
+}
+
 #home-coin {
   width: 28px;
   margin-left: 6px;
