@@ -13,6 +13,35 @@ h1 {
   margin-bottom: 0px;
 }
 
+h2 {
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h3 {
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 24px;
+}
+
+h4 {
+  font-weight: 400;
+  opacity: 0.75;
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+input {
+  width: 94%;
+}
+
+select {
+  width: 100%;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -22,16 +51,78 @@ code {
   padding: 24px;
 }
 
+/* home stylings */
+.title-container {
+  display: block;
+  text-align: center;
+  margin: 28px 0;
+}
+
+.pomoplay-title {
+  font-size: 28px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.pomoplay-img {
+  display: inline-block;
+  width: 32px;
+  vertical-align: middle;
+}
+
+.play-games-title {
+  font-weight: 500;
+  font-size: 40px;
+}
+
+#home-coin {
+  width: 28px;
+  margin-left: 6px;
+  vertical-align: middle;
+}
+
+.game-row {
+  display: flex;
+}
+
+.game-col {
+  flex: 0 0 auto;
+  width: 43%;
+  padding: 12px;
+}
+
+.game-container {
+  position: relative;
+  text-align: center;
+}
+
+.game-option {
+  object-fit: cover;
+  height: 200px;
+  width: 100%;
+  opacity: 0.5;
+  border-radius: 12px;
+  border: 1px rgba(0, 0, 0, 0.5) solid;
+}
+
+.game-amount {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-weight: 600;
+  font-size: 20px;
+  background-color: #F6F6EB;
+  border-radius: 8px;
+  padding: 8px 12px;
+}
+
 /* navbar stylings */
 .navbar {
   position: fixed;
-  bottom: 20px;
+  bottom: 0px;
   left: 0;
   right: 0;
-}
-
-.navbar-item {
-  padding: 40px !important;
 }
 
 /* profile page stylings */
@@ -56,4 +147,138 @@ code {
   width: 36px;
   margin-left: 6px;
   vertical-align: middle;
+}
+
+/* badge stylings */
+.badge-format {
+  border-radius: 500px;
+  display: block;
+  padding: 8px 16px;
+  margin: 8px 0px;
+}
+
+.grid-badge {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.purple-badge {
+  background-color: #E8DFF5;
+  color: #461093;
+}
+
+.red-badge {
+  background-color: #FCE1E4;
+  color: #D9142A;
+}
+
+.yellow-badge {
+  background-color: #FFD580;
+  color: #8B4000;
+}
+
+.badge-icon {
+  opacity: 0.5;
+}
+
+.badge-title {
+  font-weight: 500;
+  vertical-align: middle;
+}
+
+/* form stylings */
+.form-group {
+  margin-top: 32px;
+  margin-bottom: 32px;
+  width: 100%;
+  display: block;
+}
+
+.form-label {
+  font-size: 16px;
+  font-weight: 500;
+  opacity: 0.75;
+  width: 100%;
+  display: block;
+  margin-bottom: 4px;
+}
+
+.form-area {
+  font-size: 16px;
+  font-weight: 500;
+  display: block;
+  /* width: 100%; */
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px rgba(0, 0, 0, 0.1) solid;
+  font-family: 'Inter', sans-serif;
+  line-height: 1.5;
+}
+
+.lockdown-status {
+  padding-left: 32px;
+  padding-right: 32px;
+  font-size: 20px;
+}
+
+.lockdown-button-container {
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin: 32px auto;
+}
+
+.lockdown-button {
+  width: 70%;
+  padding: 18px;
+  border-radius: 500px;
+  background-color: #DDEDEA;
+  border: 1px rgba(0, 0, 0, 0.1) solid;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+/* lockdown page stylings */
+.countdown-container {
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.countdown-time {
+  font-size: 32px;
+}
+
+.countdown-stop-button {
+  width: 70%;
+  padding: 18px;
+  border-radius: 500px;
+  background-color: #FCE1E4;
+  border: 1px rgba(0, 0, 0, 0.1) solid;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.stop-countdown-box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 275px;
+  border: '2px solid #000';
+  background-color: #F6F6EB;
+  border-radius: 12px;
+  padding: 32px;
+}
+
+.countdown-button-container {
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
