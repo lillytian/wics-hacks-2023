@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/wics-hacks-2023/static/css/main.073c9b0a.css",
-    "main.js": "/wics-hacks-2023/static/js/main.498eb9dc.js",
+    "main.css": "/wics-hacks-2023/static/css/main.00fbfdfb.css",
+    "main.js": "/wics-hacks-2023/static/js/main.e43b1894.js",
     "static/js/787.261aeaef.chunk.js": "/wics-hacks-2023/static/js/787.261aeaef.chunk.js",
-    "static/media/logo.svg": "/wics-hacks-2023/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.png": "/wics-hacks-2023/static/media/logo.f6b6a0deaa0d85681762.png",
+    "static/media/crossword.png": "/wics-hacks-2023/static/media/crossword.62b8ea00de34ef722c41.png",
+    "static/media/snake.png": "/wics-hacks-2023/static/media/snake.edd0ff37ab536a350fcc.png",
+    "static/media/coin.png": "/wics-hacks-2023/static/media/coin.c708ec2c0777a4fdb909.png",
+    "static/media/luigi.png": "/wics-hacks-2023/static/media/luigi.4bbcc7d1ebeb6ddf1aa6.png",
+    "static/media/solitaire.png": "/wics-hacks-2023/static/media/solitaire.bbf2ceb9624a8517e678.png",
+    "static/media/pac-man.png": "/wics-hacks-2023/static/media/pac-man.3ab7a4d6b178bf67ee5e.png",
+    "static/media/matching-game.png": "/wics-hacks-2023/static/media/matching-game.fc25bd9e688ff0159d19.png",
     "index.html": "/wics-hacks-2023/index.html",
-    "main.073c9b0a.css.map": "/wics-hacks-2023/static/css/main.073c9b0a.css.map",
-    "main.498eb9dc.js.map": "/wics-hacks-2023/static/js/main.498eb9dc.js.map",
+    "main.00fbfdfb.css.map": "/wics-hacks-2023/static/css/main.00fbfdfb.css.map",
+    "main.e43b1894.js.map": "/wics-hacks-2023/static/js/main.e43b1894.js.map",
     "787.261aeaef.chunk.js.map": "/wics-hacks-2023/static/js/787.261aeaef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.498eb9dc.js"
+    "static/css/main.00fbfdfb.css",
+    "static/js/main.e43b1894.js"
   ]
 }
